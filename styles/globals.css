@@ -7,6 +7,7 @@
 body{
     font-family: 'arial';
 
+
 }
 
 .header-inner-content{
@@ -119,7 +120,8 @@ header{
 }
 
 .hearder-bottom-side-right img{
-    width: 110%;
+    width: 100%;
+    max-width: 100%;
 }
 
 /*Media Queries, Responsividade*/
@@ -172,8 +174,8 @@ header{
 }
 
 .page-inner-content{
-    max-width: 1200px;
-    margin: 0 auto;
+    max-width: 1300px;
+    margin:  auto;
 }
 
 .cols{
@@ -190,5 +192,5 @@ header{
 }
 
 .gray-background img{
-    width: 100%;
+   width: 100%;
 }
